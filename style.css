@@ -7,5 +7,10 @@ background-color: rgb(231, 242, 243);
 
 .cabecalho_imagem {
     width: 25px;
-    border-radius: 0 1px 1px 1px;
+    border-radius: 500px;
+    margin: 0 1px 1px 1px;
+}
+
+.cabecalho_menu {
+    display: inline;
 }
