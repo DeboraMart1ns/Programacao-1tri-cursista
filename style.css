@@ -9,8 +9,9 @@ background-color: rgb(231, 242, 243);
 
 .cabecalho_imagem {
     width: 15%;
-    border-radius: 10px;
+    border-radius: 10px solid yellow;
     margin: 20 20px 20px 30px;
+    
 }
 
 .cabecalho_menu {
