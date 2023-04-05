@@ -3,12 +3,12 @@ background-color: rgb(231, 242, 243);
 }
 .cabecalho {
     background-color: rgb(138, 156, 26);
+    border-radius: 500px;
+    margin: 0 1px 1px 1px;
 }
 
 .cabecalho_imagem {
     width: 25px;
-    border-radius: 500px;
-    margin: 0 1px 1px 1px;
 }
 
 .cabecalho_menu {
