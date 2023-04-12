@@ -33,6 +33,7 @@ background-color: rgb(231, 242, 243);
     display:flex;
     justify-content: center;
     align-items: center;
+    background-color: #97e081;
 }
 
 .escola.img {
