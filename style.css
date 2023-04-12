@@ -1,12 +1,12 @@
 body {
 background-color: rgb(231, 242, 243);
 }
+
 .cabecalho {
     background-color: rgb(138, 156, 26);
     display: flex;
     border-radius: 200px;
-    margin: 0 1px 1px 1px;
-    
+    margin: 0 1px 1px 1px; 
 }
 
 .cabecalho_imagem {
@@ -18,9 +18,4 @@ background-color: rgb(231, 242, 243);
     
 .cabecalho_menu {
     display: inline;
-}
-
-.cabecalho_menu-item {
-    display: inline;
-    margin-left: 20px;
 }
