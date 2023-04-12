@@ -6,7 +6,7 @@ background-color: rgb(231, 242, 243);
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #BCB0B0;
+    background-color: #97dc82;
     border-radius: 0px 0px 0px 150px;
     
     }
@@ -20,4 +20,9 @@ background-color: rgb(231, 242, 243);
     
 .cabecalho_menu {
     display: inline;
+}
+
+.cabecalho__menu-item{
+    display: inline;
+    margin-left: 20px;
 }
