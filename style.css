@@ -10,14 +10,12 @@ background-color: rgb(231, 242, 243);
 }
 
 .cabecalho_imagem {
-    width: 15%;
-    border-radius: 10px;
-    display: inline;
-    margin: 20px 20px 20px 200px;
+    width: 130px;
+    height: 157px;
+    border-radius: 600px;
+    margin: 30px 30px 30px 200px;  
+    }
     
-    
-}
-
 .cabecalho_menu {
     display: inline;
     margin-left: 20px
