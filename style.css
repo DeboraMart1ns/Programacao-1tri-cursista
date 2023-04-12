@@ -5,7 +5,7 @@ margin: 8px;
 }
 .cabecalho {
     background-color: rgb(138, 156, 26);
-    display: inline;
+    display: block;
     border-radius: 200px;
     margin: 0 1px 1px 1px;
     
@@ -14,11 +14,13 @@ margin: 8px;
 .cabecalho_imagem {
     width: 15%;
     border-radius: 10px;
-    margin: 20px 20px 20px 200px;
     display: inline;
+    margin: 20px 20px 20px 200px;
+    
     
 }
 
 .cabecalho_menu {
     display: inline;
+    margin-left: 20px
 }
