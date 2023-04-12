@@ -1,13 +1,14 @@
 body {
 background-color: rgb(231, 242, 243);
-display: block;
+display: inline;
 margin: 8px;
 }
 .cabecalho {
     background-color: rgb(138, 156, 26);
+    display: inline;
     border-radius: 200px;
     margin: 0 1px 1px 1px;
-    display: inline;
+    
 }
 
 .cabecalho_imagem {
