@@ -34,3 +34,8 @@ background-color: rgb(231, 242, 243);
     justify-content: center;
     align-items: center;
 }
+
+.escola_div {
+    width: 200px;
+    height: 500px;
+}
