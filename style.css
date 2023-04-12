@@ -37,13 +37,13 @@ background-color: rgb(231, 242, 243);
    
 }
 
-.escola.img {
-    width: 40px;
-    height: 40px;
-}
-
 .escola_div {
     display inline;
     width: 200px;
     height: 500px;
+}
+
+.escola.img {
+    width: 40px;
+    height: 40px;
 }
