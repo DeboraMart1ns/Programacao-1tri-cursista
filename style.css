@@ -28,3 +28,9 @@ background-color: rgb(231, 242, 243);
     font-size:26px;
     color:rgb(40, 33, 14);
 }
+
+.escola {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
