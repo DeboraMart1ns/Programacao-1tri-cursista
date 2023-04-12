@@ -25,4 +25,6 @@ background-color: rgb(231, 242, 243);
 .cabecalho_menu-item{
     display: inline;
     margin-left: 20px;
+    font-size:26px;
+    color:rgb(79, 66, 29);
 }
