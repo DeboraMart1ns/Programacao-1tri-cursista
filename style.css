@@ -3,7 +3,7 @@ background-color: rgb(231, 242, 243);
 }
 .cabecalho {
     background-color: rgb(138, 156, 26);
-    display: block;
+    display: flex;
     border-radius: 200px;
     margin: 0 1px 1px 1px;
     
