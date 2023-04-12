@@ -18,5 +18,9 @@ background-color: rgb(231, 242, 243);
     
 .cabecalho_menu {
     display: inline;
-    margin-left: 20px
+}
+
+.cabecalho_menu-item {
+    display: inline;
+    margin-left: 20px;
 }
