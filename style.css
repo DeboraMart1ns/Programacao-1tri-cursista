@@ -47,3 +47,18 @@ background-color: rgb(231, 242, 243);
     width: 400px;
     height: 400px;
 }
+
+.professores {
+    text-align: center;
+    background-color: #FEC229;
+    border-radius: 40px;
+    margin: 20px;
+}
+.professores__div{
+    text-align: center;
+}
+.professores__div-imagem{
+    width: 120px;
+    height: auto;
+
+}
